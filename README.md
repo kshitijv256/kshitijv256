@@ -1,8 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=segoe+ui&size=40&pause=30000&color=4095FF&background=FFFFFF00&center=true&width=600&height=60&lines=Hi%2C%F0%9F%91%8B++I'm+Kshitij+Verma" alt="Typing SVG" /></a></p>  
 <hr>
-<br><br>
 
-> ❤️ Love programming? we should be 😄 friends.
 <br>
 
 I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
