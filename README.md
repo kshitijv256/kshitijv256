@@ -4,12 +4,30 @@
 <br>
 
 I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
-- 📱 I'm currently working on **Flutter App Development**.
-- 😎 I'm currently learning **Fullstack development** and **Neural Networks**.
-- 💎 I do **Competitive programming** and **DSA**.
-- ❔ Ask me about `Flutter`, `DSA`, `Machine Learning` or `programming` in general.  
-- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/kshitijv256/).  
-- ⚡Contact me if you are want to collaborate on some project. 
+- #### 📱 I'm currently working on 
+    - Flutter App Development
+    - Server side development
+    
+    
+- #### 😎 I'm currently learning 
+    - Fullstack development
+    - Software Engineering
+    - Neural Networks
+    
+    
+- #### 💎 I do **Competitive programming** and **DSA**.
+
+
+- #### ❔ Ask me about 
+    - `Flutter`
+    - `Web Development`
+    - `DSA`
+    - `Machine Learning`
+    - or `programming` in general. 
+    
+    
+- #### 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/kshitijv256/).  
+- #### ⚡Contact me if you are interested to collaborate. 
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kshitijv250@gmail.com?subject=Hello%20Kshitij,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;Me.</p>
