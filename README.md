@@ -31,7 +31,13 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kshitijv250@gmail.com?subject=Hello%20Kshitij,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;Me.</p>
-<br><br>
+<br>
+
+### Holopin Badges
+
+[![@kshitijv256's Holopin board](https://holopin.me/kshitijv256)](https://holopin.io/@kshitijv256)
+
+<br>
 
 ## 😎 Languages
 <br>  
