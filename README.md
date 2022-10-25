@@ -6,7 +6,7 @@
 I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 - #### 📱 I'm currently working on 
     - Flutter App Development
-    - Server side development
+    - Computer Vision
     
     
 - #### 😎 I'm currently learning 
