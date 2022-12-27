@@ -73,9 +73,10 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&duration=200&pause=200&center=true&vCenter=true&width=30&height=20&lines=%E2%9C%A8)](https://git.io/typing-svg) My Projects  
  <br>  
- 
+  
+ - [Voting App](https://github.com/kshitijv256/Voting-App) *(currently working)*
  - [Math Solver using ML](https://github.com/kshitijv256/Maths-Solver-using-ML)
- - [Classify](https://github.com/kshitijv256/classify). (*In Progress*)  
+ - [Classify](https://github.com/kshitijv256/classify). (*Hiatus*)
  - [Project folio](https://github.com/kshitijv256/project_folio)  
  - Portfolio website *(comming soon)*
 
