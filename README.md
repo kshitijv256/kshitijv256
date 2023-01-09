@@ -5,14 +5,14 @@
 
 I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 - #### 📱 I'm currently working on 
-    - Flutter App Development
-    - Computer Vision
+    - Flutter Apps
+    - Voting application (web)
     
     
 - #### 😎 I'm currently learning 
     - Fullstack development
     - Software Engineering
-    - Neural Networks
+    - DevOps
     
     
 - #### 💎 I do **Competitive programming** and **DSA**.
@@ -45,6 +45,7 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 
  
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=Dart)  
 ![JAVA](https://img.shields.io/badge/-JAVA-orange?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-red?style=flat&logo=cplusplus)
