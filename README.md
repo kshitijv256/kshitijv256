@@ -10,8 +10,8 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
     
     
 - #### 😎 I'm currently learning 
-    - Fullstack development
-    - Software Engineering
+    - Fullstack Web
+    - Android
     - DevOps
     
     
