@@ -9,7 +9,7 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
     
     
 - #### 😎 I'm currently learning 
-    - Fullstack Web
+    - React
     - Android
     - DevOps
     
