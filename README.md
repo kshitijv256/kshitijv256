@@ -5,13 +5,14 @@
 
 I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 - #### 📱 I'm currently working on 
-    - Flutter App Development
+    - Flutter
+    - React
     
     
 - #### 😎 I'm currently learning 
-    - React
+    - React/Typescript
     - Android
-    - DevOps
+    - Deep Learning
     
     
 - #### 💎 I do **Competitive programming** and **DSA**.
@@ -58,12 +59,12 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 <br>  
 
 
-![flutter](https://img.shields.io/badge/-Flutter-skyblue?style=flat&logo=flutter)
-![firebase](https://img.shields.io/badge/-Firebase-grey?style=flat&logo=firebase)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-grey?style=flat&logo=androidstudio)  
+![flutter](https://img.shields.io/badge/-Flutter-grey?style=flat&logo=flutter)
+![react](https://img.shields.io/badge/-React-grey?style=flat&logo=react)
+![firebase](https://img.shields.io/badge/-Firebase-grey?style=flat&logo=firebase)  
+![Android Studio](https://img.shields.io/badge/-Android_Studio-grey?style=flat&logo=androidstudio)
 ![anaconda](https://img.shields.io/badge/-Anaconda-brightgreeen?style=flat&logo=anaconda&logoColor=black)
-![jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat&logo=jupyter&logoColor=white)
-![tensorflow](https://img.shields.io/badge/-Tensorflow-grey?style=flat&logo=tensorflow&logoColor=white)  
+![tensorflow](https://img.shields.io/badge/-Tensorflow-orange?style=flat&logo=tensorflow&logoColor=white)  
 ![vscode](https://img.shields.io/badge/-VS_code-blue?style=flat&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-grey?style=flat&logo=git)
 ![NPM](https://img.shields.io/badge/-npm-grey?style=flat&logo=npm)
