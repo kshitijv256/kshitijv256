@@ -5,6 +5,7 @@
 
 I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 - #### 📱 I'm currently working on 
+    - GDC fellowship
     - Flutter
     - React
     
