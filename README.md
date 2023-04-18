@@ -84,6 +84,8 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 
 <br><br>
 
+![visitors](https://profile-counter.glitch.me/kshitijv256/count.svg?align=center)
+
 <!---
 ## 📊 Some Stats
 <br>
