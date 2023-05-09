@@ -79,8 +79,7 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
  - [Voting App](https://github.com/kshitijv256/Voting-App)
  - [Math Solver using ML](https://github.com/kshitijv256/Maths-Solver-using-ML)
  - [Classify](https://github.com/kshitijv256/classify)
- - [Project folio](https://github.com/kshitijv256/project_folio)  
- - Portfolio website *(comming soon)*
+ 
 
 <br><br>
 
