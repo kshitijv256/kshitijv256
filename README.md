@@ -3,17 +3,17 @@
 
 <br>
 
-I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
+I'm a final year CS undergraduate  🎓 specializing in **_Artificial Intelligence_**
 - #### 📱 I'm currently working on 
     - GDC fellowship
-    - Flutter
-    - React
+    - Flutter development
+    - Open Source
     
     
 - #### 😎 I'm currently learning 
     - React/Typescript
     - Android
-    - Deep Learning
+    - NextJS
     
     
 - #### 💎 I do **Competitive programming** and **DSA**.
@@ -31,7 +31,7 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
 - #### ⚡Contact me if you are interested to collaborate. 
 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kshitijv250@gmail.com?subject=Hello%20Kshitij,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;Me.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kshitijv250@gmail.com?subject=Hello%20Kshitij,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a></p>
 <br>
 
 ### Holopin Badges
@@ -77,6 +77,9 @@ I'm a CSE Undergrad 🎓 specializing in **_Artificial Intelligence_**
  <br>  
   
  - [Voting App](https://github.com/kshitijv256/Voting-App)
+ - [Form Builder](https://github.com/kshitijv256/react4all)
+ - [Sports News](https://github.com/kshitijv256/capstone301)
+ - [Kanban App](https://github.com/kshitijv256/kanban-app)
  - [Math Solver using ML](https://github.com/kshitijv256/Maths-Solver-using-ML)
  - [Classify](https://github.com/kshitijv256/classify)
  
