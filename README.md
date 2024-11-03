@@ -5,7 +5,7 @@
 
 I'm a final year CS undergraduate  🎓 specializing in **_Artificial Intelligence_**
 - #### 📱 I'm currently working on 
-    - GDC fellowship
+    - Cloud Technologies
     - Flutter development
     - Open Source
     
@@ -14,6 +14,7 @@ I'm a final year CS undergraduate  🎓 specializing in **_Artificial Intelligen
     - React/Typescript
     - Android
     - NextJS
+    - SpringBoot
     
     
 - #### 💎 I do **Competitive programming** and **DSA**.
